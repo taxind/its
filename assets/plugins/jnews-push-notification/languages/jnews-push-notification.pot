@@ -1,0 +1,141 @@
+# Copyright (C) 2022 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Push Notification 10.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-30T08:04:37+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: jnews-push-notification\n"
+
+#. Plugin Name of the plugin
+#: class.jnews-push-notification-module-option.php:17
+msgid "JNews - Push Notification"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Desktop push notification plugin for JNews Themes"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:9
+msgid "JNews - Element"
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:28
+#: class.jnews-push-notification-widget.php:39
+#: push-notification-option.php:55
+#: push-notification-option.php:191
+msgid "Subscribe Description"
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:29
+#: class.jnews-push-notification-widget.php:40
+#: push-notification-option.php:56
+#: push-notification-option.php:192
+msgid "You may use standard HTML tags and attributes for subscribe description."
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:35
+#: class.jnews-push-notification-widget.php:45
+#: push-notification-option.php:82
+#: push-notification-option.php:218
+msgid "Subscribe Button Text"
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:36
+#: class.jnews-push-notification-widget.php:46
+#: push-notification-option.php:83
+#: push-notification-option.php:219
+msgid "Insert text for subscribe button."
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:42
+#: class.jnews-push-notification-widget.php:51
+#: push-notification-option.php:109
+#: push-notification-option.php:245
+msgid "Unsubscribe Button Text"
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:43
+#: class.jnews-push-notification-widget.php:52
+#: push-notification-option.php:110
+#: push-notification-option.php:246
+msgid "Insert text for unsubscribe button."
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:49
+#: class.jnews-push-notification-widget.php:57
+#: push-notification-option.php:136
+#: push-notification-option.php:272
+msgid "Processing Button Text"
+msgstr ""
+
+#: class.jnews-push-notification-module-option.php:50
+#: class.jnews-push-notification-widget.php:58
+#: push-notification-option.php:137
+#: push-notification-option.php:273
+msgid "Insert text for processing button."
+msgstr ""
+
+#: class.jnews-push-notification-option.php:45
+msgid "Push Notification"
+msgstr ""
+
+#: class.jnews-push-notification-widget.php:33
+msgid "Title"
+msgstr ""
+
+#: class.jnews-push-notification-widget.php:34
+msgid "Title on widget header."
+msgstr ""
+
+#: class.jnews-push-notification-widget.php:69
+msgid "General Setting"
+msgstr ""
+
+#: class.jnews-push-notification.php:99
+#: class.jnews-push-notification.php:150
+msgid "Subscribe Push Notification need OneSignal plugin to be installed."
+msgstr ""
+
+#: push-notification-option.php:25
+msgid "Single Post Subscribe"
+msgstr ""
+
+#: push-notification-option.php:35
+msgid "Enable Post Subscribe"
+msgstr ""
+
+#: push-notification-option.php:36
+msgid "Enable subscribe form on each single post."
+msgstr ""
+
+#: push-notification-option.php:161
+msgid "Single Category Subscribe"
+msgstr ""
+
+#: push-notification-option.php:171
+msgid "Enable Category Subscribe"
+msgstr ""
+
+#: push-notification-option.php:172
+msgid "Enable subscribe form on each category page."
+msgstr ""

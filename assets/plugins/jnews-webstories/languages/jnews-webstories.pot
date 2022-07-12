@@ -1,0 +1,285 @@
+# Copyright (C) 2022 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Webstories 10.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-30T08:04:38+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: jnews-webstories\n"
+
+#. Plugin Name of the plugin
+#: include/class/module/class-webstories-module.php:217
+msgid "JNews - Webstories"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Webstories element for wordpress"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:98
+msgid "Webstories Item Type"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:99
+msgid "Webstories item type"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:145
+msgid "Sort by"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:146
+#: include/class/element/class-element-webstories-option.php:165
+#: include/class/element/class-element-webstories-option.php:190
+#: include/class/element/class-element-webstories-option.php:204
+#: include/class/element/class-element-webstories-option.php:218
+#: include/class/element/class-element-webstories-option.php:231
+#: include/class/element/class-element-webstories-option.php:244
+#: include/class/element/class-element-webstories-option.php:257
+msgid "Content Filter"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:149
+msgid "Latest story - Published Date"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:150
+msgid "Latest story - Modified Date"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:151
+msgid "Oldest story - Published Date"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:152
+msgid "Oldest story - Modified Date"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:153
+msgid "Alphabet Asc"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:154
+msgid "Alphabet Desc"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:155
+msgid "Random Story"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:163
+msgid "Number of Story"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:164
+msgid "Show number of story on this module."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:177
+msgid "Include Story"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:178
+#: include/class/element/class-element-webstories-option.php:189
+msgid "Select webstories item."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:188
+msgid "Exclude Story"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:202
+msgid "Author"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:203
+msgid "Write to search post author."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:229
+msgid "Exclude Category"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:230
+msgid "Choose excluded category for this modules."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:243
+msgid "Add tag filter for webstroies element."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:255
+msgid "Exclude Tags"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:256
+msgid "Write to search post tag."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:285
+msgid "Show overlay on webstory item"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:286
+#: include/class/element/class-element-webstories-option.php:295
+#: include/class/element/class-element-webstories-option.php:309
+#: include/class/element/class-element-webstories-option.php:324
+#: include/class/element/class-element-webstories-option.php:335
+#: include/class/element/class-element-webstories-option.php:346
+#: include/class/element/class-element-webstories-option.php:357
+#: include/class/element/class-element-webstories-option.php:371
+#: include/class/element/class-element-webstories-option.php:388
+#: include/class/element/class-element-webstories-option.php:404
+#: include/class/element/class-element-webstories-option.php:417
+msgid "Design"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:293
+msgid "Choose Border Style"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:294
+msgid "Choose border style."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:298
+msgid "Solid border color"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:299
+msgid "Gradient border color"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:307
+msgid "Story Solid Border Color"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:308
+msgid "Choose solid border color for unseen story"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:356
+msgid "Show Title"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:369
+msgid "show author"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:370
+msgid "Show author profile picture on"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:374
+msgid "Enable"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:375
+msgid "Disable"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:386
+msgid "Potrait Style"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:387
+msgid "Show potrait"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:391
+msgid "Potrait style 1"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:392
+msgid "Potrait style 2"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:403
+msgid "Show Slider Arrow Controls"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:415
+msgid "Border Radius"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:416
+msgid "Adjust border radius of this story item."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:461
+msgid "Choose Pagination Mode"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:462
+msgid "Choose which pagination mode that fit with your block."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:463
+#: include/class/element/class-element-webstories-option.php:481
+#: include/class/element/class-element-webstories-option.php:492
+#: include/class/element/class-element-webstories-option.php:507
+msgid "Pagination"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:466
+msgid "No Pagination"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:467
+msgid "Next Prev"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:468
+msgid "Load More"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:469
+msgid "Auto Load on Scroll"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:479
+msgid "Show Navigation Text"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:490
+msgid "Pagination Post"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:491
+msgid "Number of Post loaded during pagination request."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:505
+msgid "Auto Load Limit"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:506
+msgid "Limit of auto load when scrolling, set to zero to always load until end of content."
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:525
+msgid "JNews - Webstories Element"
+msgstr ""
+
+#: include/class/element/class-element-webstories-option.php:534
+msgid "JNews - Element"
+msgstr ""

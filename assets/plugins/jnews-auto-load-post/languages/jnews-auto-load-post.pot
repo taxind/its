@@ -1,0 +1,284 @@
+# Copyright (C) 2022 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Auto Load Next Post 10.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-06T07:03:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: jnews-auto-load-post\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Auto Load Next Post"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Auto load next post when scroll for JNews"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: autoload-option.php:45
+msgid "Attention"
+msgstr ""
+
+#: autoload-option.php:47
+msgid ""
+"<ul>\n"
+"\t\t\t\t<li>All setting on single post customizer option or single post metabox overwritten by this option.</li>\n"
+"\t\t\t\t<li>Several option will also disabled. Such as Sidebar on Mobile, Next Prev link, Popup for related post.</li>\n"
+"\t\t\t\t<li>We disable autoload effect on customizer. But you can see it on your website.</li>\n"
+"\t\t\t</ul>"
+msgstr ""
+
+#: autoload-option.php:62
+msgid "Single Template & Layout"
+msgstr ""
+
+#: autoload-option.php:71
+msgid "Single Blog Post Template"
+msgstr ""
+
+#: autoload-option.php:72
+msgid "Choose your single blog post template."
+msgstr ""
+
+#: autoload-option.php:97
+msgid "Single Blog Post Layout"
+msgstr ""
+
+#: autoload-option.php:98
+msgid "Choose your single blog post layout."
+msgstr ""
+
+#: autoload-option.php:125
+msgid "Single post sidebar"
+msgstr ""
+
+#: autoload-option.php:126
+msgid "Choose your post sidebar. If you need another sidebar, you can create from WordPress Admin &raquo; Appearance &raquo; Widget."
+msgstr ""
+
+#: autoload-option.php:151
+msgid "Single post second sidebar"
+msgstr ""
+
+#: autoload-option.php:152
+msgid "Choose your post second sidebar. If you need another sidebar, you can create from WordPress Admin &raquo; Appearance &raquo; Widget."
+msgstr ""
+
+#: autoload-option.php:177
+msgid "Show / Hide Comment"
+msgstr ""
+
+#: autoload-option.php:178
+msgid "Choose if you want to hide comment on single post."
+msgstr ""
+
+#: autoload-option.php:180
+msgid "Hide Comment"
+msgstr ""
+
+#: autoload-option.php:181
+msgid "Show Comment"
+msgstr ""
+
+#: autoload-option.php:205
+msgid "Autoload Content"
+msgstr ""
+
+#: autoload-option.php:214
+msgid "Autoload Content Filter"
+msgstr ""
+
+#: autoload-option.php:215
+msgid "Choose which the most relevant content will autoload after current post."
+msgstr ""
+
+#: autoload-option.php:217
+msgid "By Sequence"
+msgstr ""
+
+#: autoload-option.php:218
+msgid "By Category"
+msgstr ""
+
+#: autoload-option.php:219
+msgid "By Tag"
+msgstr ""
+
+#: autoload-option.php:220
+msgid "By Sidefeed"
+msgstr ""
+
+#: autoload-option.php:221
+msgid "By Random"
+msgstr ""
+
+#: autoload-option.php:242
+msgid "Autoload Content Limit"
+msgstr ""
+
+#: autoload-option.php:243
+msgid "Set limit for autoload post."
+msgstr ""
+
+#: autoload-option.php:308
+msgid "Autoload Ads Separator"
+msgstr ""
+
+#: autoload-option.php:317
+msgid "Enable Advertisement"
+msgstr ""
+
+#: autoload-option.php:318
+msgid "Show advertisement as separator on autoload post."
+msgstr ""
+
+#: autoload-option.php:333
+msgid "Advertisement Type"
+msgstr ""
+
+#: autoload-option.php:334
+msgid "Choose which type of advertisement you want to use."
+msgstr ""
+
+#: autoload-option.php:337
+msgid "Image Ads"
+msgstr ""
+
+#: autoload-option.php:338
+msgid "Google Ads"
+msgstr ""
+
+#: autoload-option.php:339
+msgid "Script Code"
+msgstr ""
+
+#: autoload-option.php:340
+msgid "Shortcode"
+msgstr ""
+
+#: autoload-option.php:363
+msgid "Advertisement Image Desktop"
+msgstr ""
+
+#: autoload-option.php:364
+msgid "Upload your ads image that will be shown on the desktop view."
+msgstr ""
+
+#: autoload-option.php:380
+msgid "Advertisement Image Tablet"
+msgstr ""
+
+#: autoload-option.php:381
+msgid "Upload your ads image that will be shown on the tablet view."
+msgstr ""
+
+#: autoload-option.php:397
+msgid "Advertisement Image Phone"
+msgstr ""
+
+#: autoload-option.php:398
+msgid "Upload your ads image that will be shown on the phone view."
+msgstr ""
+
+#: autoload-option.php:414
+msgid "Advertisement Link"
+msgstr ""
+
+#: autoload-option.php:415
+msgid "Please put where this advertisement image will be heading."
+msgstr ""
+
+#: autoload-option.php:431
+msgid "Alternate Text"
+msgstr ""
+
+#: autoload-option.php:432
+msgid "Insert alternate text for advertisement image."
+msgstr ""
+
+#: autoload-option.php:448
+msgid "Open in New Tab"
+msgstr ""
+
+#: autoload-option.php:449
+msgid "Enable open in new tab when advertisement image is clicked."
+msgstr ""
+
+#: autoload-option.php:465
+msgid "Google Publisher ID"
+msgstr ""
+
+#: autoload-option.php:466
+msgid "Insert data-ad-client / google_ad_client content."
+msgstr ""
+
+#: autoload-option.php:482
+msgid "Google Ad Slot ID"
+msgstr ""
+
+#: autoload-option.php:483
+msgid "Insert data-ad-slot / google_ad_slot content."
+msgstr ""
+
+#: autoload-option.php:499
+msgid "Desktop Ad Size"
+msgstr ""
+
+#: autoload-option.php:500
+msgid "Choose ad size to be shown on desktop, recommended to use auto."
+msgstr ""
+
+#: autoload-option.php:517
+msgid "Tab Ad Size"
+msgstr ""
+
+#: autoload-option.php:518
+msgid "Choose ad size to be shown on tablet, recommended to use auto."
+msgstr ""
+
+#: autoload-option.php:535
+msgid "Phone Ad Size"
+msgstr ""
+
+#: autoload-option.php:536
+msgid "Choose ad size to be shown on phone, recommended to use auto."
+msgstr ""
+
+#: autoload-option.php:554
+msgid "Ads Script Code"
+msgstr ""
+
+#: autoload-option.php:555
+msgid "Put your ad's script code right here."
+msgstr ""
+
+#: autoload-option.php:571
+msgid "Ads Shortcode"
+msgstr ""
+
+#: autoload-option.php:572
+msgid "Put your ad's shortcode right here."
+msgstr ""
+
+#: class.jnews-auto-load-post-option.php:42
+msgid "Auto Load Scroll Post Option"
+msgstr ""

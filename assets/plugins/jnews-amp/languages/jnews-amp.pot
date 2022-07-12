@@ -1,0 +1,272 @@
+# Copyright (C) 2022 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - AMP Extender 10.0.3\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-06-13T08:14:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: jnews-amp\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - AMP Extender"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Extend WordPress AMP to fit with JNews Style"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: include/class/class-init.php:476
+#: include/class/customizer/class-customizer.php:121
+#: include/class/customizer/class-customizer.php:123
+#: include/class/customizer/options/amp-gdpr-option.php:22
+#: include/class/customizer/options/amp-gdpr-option.php:24
+msgid "Headline"
+msgstr ""
+
+#: include/class/class-init.php:477
+#: include/class/customizer/class-customizer.php:138
+#: include/class/customizer/options/amp-gdpr-option.php:39
+msgid "This is an important message requiring you to make a choice if you're based in the EU."
+msgstr ""
+
+#: include/class/class-init.php:478
+#: include/class/customizer/class-customizer.php:155
+#: include/class/customizer/options/amp-gdpr-option.php:56
+msgid "Accept"
+msgstr ""
+
+#: include/class/class-init.php:479
+#: include/class/customizer/class-customizer.php:172
+#: include/class/customizer/options/amp-gdpr-option.php:73
+msgid "Reject"
+msgstr ""
+
+#: include/class/class-init.php:480
+#: include/class/customizer/class-customizer.php:189
+#: include/class/customizer/options/amp-gdpr-option.php:90
+msgid "Update Consent"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:70
+msgid "AMP Ads"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:104
+#: include/class/customizer/options/amp-gdpr-option.php:5
+msgid "AMP GDPR Compliance"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:113
+#: include/class/customizer/options/amp-gdpr-option.php:14
+msgid "Enable GDPR Compliance"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:114
+#: include/class/customizer/options/amp-gdpr-option.php:15
+msgid "Enable this option to show GDPR compliance notice on the AMP page."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:124
+#: include/class/customizer/options/amp-gdpr-option.php:25
+msgid "Insert text for headline notice."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:140
+#: include/class/customizer/options/amp-gdpr-option.php:41
+msgid "Notice Content"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:141
+#: include/class/customizer/options/amp-gdpr-option.php:42
+msgid "Insert text for the notice content."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:157
+#: include/class/customizer/options/amp-gdpr-option.php:58
+msgid "Accept Text"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:158
+#: include/class/customizer/options/amp-gdpr-option.php:59
+msgid "Insert text for accept button."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:174
+#: include/class/customizer/options/amp-gdpr-option.php:75
+msgid "Reject Text"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:175
+#: include/class/customizer/options/amp-gdpr-option.php:76
+msgid "Insert text for reject button."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:191
+#: include/class/customizer/options/amp-gdpr-option.php:92
+msgid "Setting Text"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:192
+#: include/class/customizer/options/amp-gdpr-option.php:93
+msgid "Insert text for setting button."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:207
+#: include/class/customizer/options/amp-gdpr-option.php:108
+msgid "Privacy Policy"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:208
+#: include/class/customizer/options/amp-gdpr-option.php:109
+msgid "Insert text for privacy policy link."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:223
+#: include/class/customizer/options/amp-gdpr-option.php:124
+msgid "Privacy Policy URL"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:224
+#: include/class/customizer/options/amp-gdpr-option.php:125
+msgid "Insert url for privacy policy link."
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:240
+#: include/class/customizer/options/amp-gdpr-option.php:141
+msgid "Load FontAwesome Locally"
+msgstr ""
+
+#: include/class/customizer/class-customizer.php:241
+#: include/class/customizer/options/amp-gdpr-option.php:142
+msgid "Enable this option to force load FontAwesome locally."
+msgstr ""
+
+#: include/class/customizer/options/amp-ads-option.php:9
+msgid "Google Auto Advertisement"
+msgstr ""
+
+#: include/class/customizer/options/amp-ads-option.php:18
+msgid "Enable Google Auto Advertisement"
+msgstr ""
+
+#: include/class/customizer/options/amp-ads-option.php:19
+msgid "Enable Google auto advertisement on AMP pages."
+msgstr ""
+
+#: include/class/customizer/options/amp-ads-option.php:28
+msgid "Google Ads Publisher ID"
+msgstr ""
+
+#: include/class/customizer/options/amp-ads-option.php:29
+#: include/class/customizer/options/class.jnews-amp-option.php:134
+msgid "Insert data-ad-client / google_ad_client content."
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:51
+msgid "%s Advertisement"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:60
+msgid "Enable %s Advertisement"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:61
+msgid "Enable advertisement on %s."
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:70
+msgid "%s : Advertisement type"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:71
+msgid "Choose which type of advertisement you want to use."
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:74
+msgid "Google Ads"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:75
+msgid "Custom Ads"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:93
+msgid "%s : Random Ads Position"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:94
+msgid "Random on which paragraph ads will show."
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:110
+msgid "%s : After Paragraph"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:111
+msgid "After which paragraph you want this advertisement to show."
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:133
+msgid "%s : Publisher ID"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:155
+msgid "%s : Ad Slot ID"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:156
+msgid "Insert data-ad-slot / google_ad_slot content."
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:177
+msgid "%s : Ads Size"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:178
+msgid "Choose ads size, recommended to use auto instead."
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:201
+msgid "%s : Ad Code"
+msgstr ""
+
+#: include/class/customizer/options/class.jnews-amp-option.php:202
+msgid "Insert your custom ad code."
+msgstr ""
+
+#: template/meta-taxonomy.php:1
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: template/meta-taxonomy.php:4
+msgid "Categories:"
+msgstr ""
+
+#: template/meta-taxonomy.php:12
+msgid "Tags:"
+msgstr ""
+
+#: template/meta-time.php:6
+msgctxt "%s = human-readable time difference"
+msgid "%s "
+msgstr ""
